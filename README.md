@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Ahad Ansari.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently looking for a JOB in Software Developer Role.
 - 📫 How to reach me
 
      Email:-ansariabdulahad3@gmail.com
